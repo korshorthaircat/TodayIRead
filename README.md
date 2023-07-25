@@ -11,3 +11,4 @@
 ## [React.js, 스프링부트, AWS로 배우는 웹 개발 101_김다정](http://aladin.kr/p/mfwgZ)
 * [2.2 백엔드 서비스 아키텍처.md](https://github.com/korshorthaircat/TodayIRead/blob/main/React.js%2C%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8%2C%20AWS%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20101/2.2%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.md)
 
+## 모두의 네트워크 - 10일 만에 배우는 네트워크 기초_미즈구치 카츠야
